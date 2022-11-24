@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Mayur Kharmate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;Welcome+to+my+Github+Profile..&hearts;++;Computer+Engineering+Student,;Active+Learner,;Looking+forward+to+learn+new+stuffs..+:)"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;Welcome+to+my+Github+Profile..+:);++;I'm+Computer+Engineering+Student;Active+Learner;I'm+Looking+forward+to+learn+new+stuffs..+:)"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
 ## <picture><img src = "https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/Right_Side.gif" width = 250px></picture>
@@ -29,7 +28,6 @@ Here are some ideas to get you started:
 -  📬&nbsp;You can email me at mayur9739kharmate6236@gmail.com. I'll try to respond as soon as possible!
 - 📄 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1ycgVS-axsmv5d1q3YuqFvhFTP_YyUSnq/view?usp=share_link)
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
@@ -37,9 +35,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mayur-kharmate/" target="_blank"><img align="left" alt="MrRobotMsk07 | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 <a href="https://www.instagram.com/mayurkharmate07/" target="_blank"><img align="left" alt="MrRobotMsk07 | Instagram" width="32px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />
 <a href="https://twitter.com/mayurkharmate1" target="_blank"><img align="left" alt="MrRobotMsk07 | Twitter" width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />
-<br><br
-
-<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/script_Logo.gif" width ="25"><b> Skills</b>
 <br>
@@ -65,7 +60,6 @@ Here are some ideas to get you started:
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     ![Pycharm Community](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=007ACC)&nbsp;
 
@@ -85,15 +79,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=MrRobotMsk07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRobotMsk07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="MrRobotMsk07"/>
 
-</a>
-</div>
 
+<br><br>
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
-<div>
+
 ![](https://komarev.com/ghpvc/?username=MrRobotMsk07&color=ff69b4)&nbsp;
 ![](https://img.shields.io/github/followers/MrRobotMsk07?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![](https://img.shields.io/github/last-commit/MrRobotMsk07/MrRobotMsk07?color=orange)&nbsp;
+</a>
 </div>
-
-
