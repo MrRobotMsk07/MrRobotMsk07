@@ -16,26 +16,24 @@ Here are some ideas to get you started:
 <h1 align="center"><b>Hi , I'm Mayur Kharmate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;Welcome+to+my+Github+Profile..&hearts;++;Computer+Engineering+Student,;Active+Learner,;Looking+forward+to+learn+new+stuffs..+:)"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone;Welcome+to+my+Github+Profile..&hearts;++;Computer+Engineering+Student,;Active+Learner,;Looking+forward+to+learn+new+stuffs..+:)"></a>
 </p>
 
-<br>
-	
+<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
+
 ## <picture><img src = "https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/about_me.gif" width = 50px></picture> **About me**
-
 <picture> <img align="right" src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - 🔭 A passionate Computer Engineering Student
--  📬&nbsp;You can email me at mailto:mayur9739kharmate6236@gmail.com. I'll try to respond as soon as possible!
-- 📄 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ycgVS-axsmv5d1q3YuqFvhFTP_YyUSnq/view?usp=share_link)
+-  📬&nbsp;You can email me at mayur9739kharmate6236@gmail.com. I'll try to respond as soon as possible!
+- 📄 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1ycgVS-axsmv5d1q3YuqFvhFTP_YyUSnq/view?usp=share_link)
 
 <br><br>
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/handshake.gif" width ="80"> Connect with me:</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/handshake.gif" width ="80"> Connect with me ..!</h3>
 <a href="https://www.linkedin.com/in/mayur-kharmate/" target="_blank"><img align="left" alt="MrRobotMsk07 | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 <a href="https://www.instagram.com/mayurkharmate07/" target="_blank"><img align="left" alt="MrRobotMsk07 | Instagram" width="32px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />
 <a href="https://twitter.com/mayurkharmate1" target="_blank"><img align="left" alt="MrRobotMsk07 | Twitter" width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-- **Languages**:
+- **Programming Languages** :
     
     ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
     ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 
 <br>   
     
-- **Front-End Development**:
+- **Front-End Development** :
 
 	![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 	![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -64,15 +62,15 @@ Here are some ideas to get you started:
 
 <br>
 <!--
-- **Cloud Hosting**:
+**Cloud Hosting** :
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 -->
+
 - **Softwares and Tools**:
 
-    <!--![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;-->
+    <!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;--!>
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -81,7 +79,7 @@ Here are some ideas to get you started:
 
 <br>
 <!--
-- **Tools**:
+ **Tools**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -118,5 +116,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/followers/MrRobotMsk07?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![](https://img.shields.io/github/last-commit/MrRobotMsk07/MrRobotMsk07?color=orange)&nbsp;
 </div>
+
+
 
 
