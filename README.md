@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrRobotMsk07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="MrRobotMsk07"/>
 
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
 ![](https://komarev.com/ghpvc/?username=MrRobotMsk07&color=ff69b4)&nbsp;
