@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/handshake.gif" width ="80"> Connect with me ..!</h3>
+## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/handshake.gif" width ="80"> Connect with me ..!
 <a href="https://www.linkedin.com/in/mayur-kharmate/" target="_blank"><img align="left" alt="MrRobotMsk07 | LinkedIn" width="32px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 <a href="https://www.instagram.com/mayurkharmate07/" target="_blank"><img align="left" alt="MrRobotMsk07 | Instagram" width="32px" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" />
 <a href="https://twitter.com/mayurkharmate1" target="_blank"><img align="left" alt="MrRobotMsk07 | Twitter" width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />
@@ -61,29 +61,13 @@ Here are some ideas to get you started:
 	![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <br>
-<!--
-**Cloud Hosting** :
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
--->
 
 - **Softwares and Tools**:
 
-    <!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;--!>
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     ![Pycharm Community](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=007ACC)&nbsp;
-   <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
-
-<br>
-<!--
- **Tools**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
--->
 
 </p>
 
@@ -116,7 +100,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/followers/MrRobotMsk07?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![](https://img.shields.io/github/last-commit/MrRobotMsk07/MrRobotMsk07?color=orange)&nbsp;
 </div>
-
-
-
-
