@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     ![Pycharm Community](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=007ACC)&nbsp;
 
@@ -74,11 +74,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif">
-<br><br>
-
-<br>
-
+<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 
 ## <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/stat.gif" width="35"><b> Github Stats </b>
 <br>
@@ -92,11 +88,12 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
 <div>
-<br>
-<img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif">
-<br><br>
 ![](https://komarev.com/ghpvc/?username=MrRobotMsk07&color=ff69b4)&nbsp;
 ![](https://img.shields.io/github/followers/MrRobotMsk07?style=plastic/-GitHub-05122A?style=flat&logo=github&color=blue)&nbsp;
 ![](https://img.shields.io/github/last-commit/MrRobotMsk07/MrRobotMsk07?color=orange)&nbsp;
 </div>
+
+
