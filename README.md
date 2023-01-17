@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 A passionate Computer Engineering Student
 - 📬 &nbsp;You can email me at mayur9739kharmate6236@gmail.com. I'll try to respond as soon as possible!
-- 📄 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1ycgVS-axsmv5d1q3YuqFvhFTP_YyUSnq/view?usp=share_link)
+- 📄 I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1iX0shYHq5yeFH8QETkpMlqlq6BD4bBSb/view?usp=share_link)
 
 
 <img src="https://raw.githubusercontent.com/MrRobotMsk07/MrRobotMsk07/main/img/bar.gif"><br><br>
